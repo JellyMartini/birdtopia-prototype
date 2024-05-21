@@ -61,6 +61,7 @@
     <Compile Include="Assets\QA\Scripts\QA_Driver.cs" />
     <Compile Include="Assets\Resources\Scripts\Player.cs" />
     <Compile Include="Assets\Resources\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Resources\Scripts\Falcon.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
